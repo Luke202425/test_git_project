@@ -4,4 +4,4 @@ print("Smth for Git Rebase 0")
 print("Smth for Conflict Git Rebase 0")
 
 
-print("Conflict git rebase 0")
+print("0. Conflict git rebase")
