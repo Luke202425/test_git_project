@@ -5,3 +5,4 @@ print("Smth for Conflict Git Rebase 0")
 
 
 print("0. Conflict git rebase")
+print("1. Conflict git rebase")
