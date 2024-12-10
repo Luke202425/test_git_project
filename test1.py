@@ -5,3 +5,4 @@ print("Stash es simpatico/simpatica")
 
 print('Add name to a stash')
 print("Stash about to be deleted")
+print("Smth for Git Rebase 2")
