@@ -9,3 +9,5 @@ print("1. Conflict git rebase")
 print("2. Conflict git rebase")
 
 print("4. Conflict git rebase")
+
+print("3. Conflict git rebase")
